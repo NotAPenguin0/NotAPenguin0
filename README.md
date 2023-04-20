@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**NotAPenguin0/NotAPenguin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Belgian computer science student @KULeuven.
+- I use Rust and C++
+- I work on projects related to computer graphics, typically using Vulkan.
 
-Here are some ideas to get you started:
+### Current projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Phobos](https://github.com/NotAPenguin0/phobos-rs)
+
+A Rust library for Vulkan on desktop. Phobos provides abstractions to remove Vulkan boilerplate, manage resources and automate
+synchronization.
+
+#### [Andromeda](https://github.com/NotAPenguin0/andromeda-rs)
+
+A 3D terrain engine and landscape editor in Rust.
