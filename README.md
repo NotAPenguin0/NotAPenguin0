@@ -15,3 +15,7 @@ synchronization.
 #### [Andromeda](https://github.com/NotAPenguin0/andromeda-rs)
 
 A 3D terrain engine and landscape editor in Rust.
+
+#### [GT: New Horizons](https://github.com/GTNewHorizons/)
+
+A large progressive minecraft modpack for 1.7.10 balanced around GregTech.
