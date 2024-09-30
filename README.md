@@ -3,7 +3,7 @@
 - I am a Belgian computer science student @KULeuven.
 - I use Rust and C++
 - I work on projects related to computer graphics, typically using Vulkan.
-- Sometimes I write about my projects at <https://www.notapenguin.blog/>
+- Sometimes I write about my projects at <https://notapenguin0.github.io>
 
 ### Current projects:
 
